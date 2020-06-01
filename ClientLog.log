@@ -1,0 +1,1 @@
+2020-04-09 14:10:09.390 [main] ERROR com.client.Client - Не удалось разобрать файл с инфо для подключения serggggver.ini java.lang.NullPointerException
